@@ -1,0 +1,15 @@
+[requires]
+
+
+fmt/9.0.0
+boost/1.71.0
+
+[options]
+*:fPIC=True
+
+
+fmt:header_only=False
+fmt:with_fmt_alias=True
+
+[generators]
+cmake_find_package
