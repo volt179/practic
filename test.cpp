@@ -2,6 +2,6 @@
 
 int main() {
 	setlocale(LC_ALL, "Russian");
-	std::cout << "Всем привет!!! чето получлось кажется";
+	std::cout << "я когда-нибудь уйду...";
 	return 0;
 }
